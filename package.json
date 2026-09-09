@@ -1,0 +1,9 @@
+{
+  "name": "groupme-calendar-sync",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Turns a GroupMe group's Events into a live, subscribable .ics calendar feed.",
+  "engines": {
+    "node": ">=18"
+  }
+}
